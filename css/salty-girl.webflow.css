@@ -4,6 +4,7 @@
   --tennis-green: #3d9071;
   --taupe: #b1907a;
   --blue: #008fc6;
+  --sand: #dfceb6;
 }
 
 .home-hero-sample {
@@ -416,6 +417,10 @@
 .link-block {
   width: 400px;
   margin-top: 40px;
+}
+
+.body {
+  background-color: var(--sand);
 }
 
 @media screen and (max-width: 991px) {
